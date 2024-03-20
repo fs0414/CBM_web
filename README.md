@@ -1,4 +1,4 @@
-container in
+container build
 ```sh
 docker compose up -d --build
 
