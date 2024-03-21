@@ -9,3 +9,8 @@ show Log
 ```sh
 docker attach web_container
 ```
+
+biome format
+```sh
+yarn biome format /path --write
+```
