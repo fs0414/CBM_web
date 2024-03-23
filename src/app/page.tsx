@@ -1,4 +1,4 @@
-import { Header } from "@/components/layout/header";
+import { Header } from "@/src/components/layout/header";
 import RootLayout from "./layout";
 // import { Content } from "@/utils/content";
 // import Image from "next/image";
